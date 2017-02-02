@@ -22,30 +22,7 @@ Client Excellence to Ebola-hit countries in West Africa, International Monetary 
 
 ## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1994`
-Article Title, Journal Title
-
-`1994`
-Article Title, Journal Title
-
-### Books
-
-`1994`
-Book Title, Journal Title
-
-`1994`
-Book Title, Journal Title
-
-
-## Presentations
-
-`1994`
-Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Link to Presentation</a>
-
+The World Bank Group. East Asia Economic Update. October 2016. 
 
 ## Occupation
 
@@ -55,11 +32,7 @@ __Analyst on East Asia_, World Bank Group
 - Task
 - Task
 
-`1994-1996`
-__Current Job Title__, Current Employer 
 
-- Task
-- Task
 
 
 
