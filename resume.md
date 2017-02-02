@@ -3,22 +3,22 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Analyst on East Asia
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2002-2006`
+__Emmanuel College_
+Bachelors in Political Economy
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2007-2010`
+__The Johns Hopkins University__
+Master's in Applied Economics
 
 ## Awards
 
-`2012`
-Name of Award, Organization 
+`2015`
+Client Excellence to Ebola-hit countries in West Africa, International Monetary Fund 
 
 ## Publications
 
@@ -50,7 +50,7 @@ Presentation Title, Conference, <a href="http://MyWebsite.tld/presentation1">Lin
 ## Occupation
 
 `Current`
-__Current Job Title__, Current Employer 
+__Analyst on East Asia_, World Bank Group 
 
 - Task
 - Task
