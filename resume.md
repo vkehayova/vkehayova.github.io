@@ -26,11 +26,7 @@ The World Bank Group. East Asia Economic Update. October 2016.
 
 ## Occupation
 
-`Current`
-__Analyst on East Asia_, World Bank Group 
-
-- Task
-- Task
+Analyst on East Asia, World Bank Group 
 
 
 
