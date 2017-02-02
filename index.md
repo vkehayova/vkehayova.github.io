@@ -3,11 +3,11 @@ layout: page
 excerpt: "About Me..."
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Professional with ten years of experience in the field of international development and macroeconomics of emerging and advanced economies mostly in Asia, Africa and Latin America. Have covered topics of economic growth drivers, fiscal and debt sustainability, food security, public health and natural disasters. Currently, also pursuing advanced degree on articificial intelligence and complex automation processes. 
 
 ## Current Interests and Projects:
 
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
-- Lorem ipsum dolor sit amet
+- Macroeconomics of countries in East Asia
+- Artifical intelligence
+- Geospatial research
+- Machine learning
