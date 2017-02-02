@@ -8,11 +8,11 @@ Analyst on East Asia
 ## Education
 
 `2002-2006`
-Emmanuel College
+Emmanuel College,
 Bachelors in Political Economy
 
 `2007-2010`
-The Johns Hopkins University
+The Johns Hopkins University,
 Master's in Applied Economics
 
 ## Awards
